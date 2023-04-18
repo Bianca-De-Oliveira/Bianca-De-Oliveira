@@ -1,7 +1,7 @@
 ### Ola! Eu sou a Bia
 
 - 🌱 Estudando HTML/CSS
-- 🙂 Pronouns: ela/dela
+
 
 
 <div>
